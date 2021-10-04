@@ -1,0 +1,1 @@
+Troya Guide bot is a moderation bot that serves servers on the Discord.
